@@ -1,0 +1,7 @@
+src/app/schemes/[id]/page.tsx(208,17): error TS2322: Type '{ children: Element; asChild: true; }' is not assignable to type 'IntrinsicAttributes & ButtonProps'.
+  Property 'asChild' does not exist on type 'IntrinsicAttributes & ButtonProps'.
+src/app/schemes/[id]/page.tsx(211,17): error TS2322: Type '{ children: Element; asChild: true; variant: "outline"; }' is not assignable to type 'IntrinsicAttributes & ButtonProps'.
+  Property 'asChild' does not exist on type 'IntrinsicAttributes & ButtonProps'.
+src/app/schemes/page.tsx(69,25): error TS2322: Type '{ children: Element; asChild: true; variant: "outline"; className: string; }' is not assignable to type 'IntrinsicAttributes & ButtonProps'.
+  Property 'asChild' does not exist on type 'IntrinsicAttributes & ButtonProps'.
+EXIT=0 
