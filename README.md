@@ -10,6 +10,7 @@ npm run dev
 ```
 
 Then open [http://localhost:3000](http://localhost:3000).
+or just open (https://claim-whats-yours.vercel.app/).
 
 Other scripts: `npm run build`, `npm run start`, `npm run lint`.
 
@@ -37,3 +38,5 @@ The admin page is protected by a constant `ADMIN_PASSCODE` defined in `src/lib/c
 - `/checklist` — Personalised document checklist.
 - `/tracking` — Track your applications.
 - `/admin` — Admin view (passcode protected, client-side only).
+  ##prompts
+  i have attached the prompts given in the file named prompts
